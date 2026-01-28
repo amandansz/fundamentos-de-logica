@@ -26,4 +26,4 @@ Este repositório abordará gradualmente os seguintes tópicos de forma prática
 > Cada tópico será desenvolvido com exercícios separados, permitindo aprendizado progressivo e organizado.
 
 ---
-Com 🤍 por Amanda. 
+Feito com 🤍 por Amanda. 
