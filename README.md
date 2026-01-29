@@ -20,8 +20,8 @@ Este repositório abordará gradualmente os seguintes tópicos de forma prática
 3. **Objetos e suas propriedades**  
 4. **Funções (declaração, parâmetros e retorno)**  
 5. **Estruturas Condicionais (`if-else`)**  
-6. **Estruturas de Repetição (`for`, `while`)**  
-7. **Manipulação de dados e pequenos desafios de lógica**  
+6. **Estruturas de Repetição (`for`, `while`,`do while` )**  
+7. **Manipulação de dados e desafios de lógica**  
 
 > Cada tópico será desenvolvido com exercícios separados, permitindo aprendizado progressivo e organizado.
 
