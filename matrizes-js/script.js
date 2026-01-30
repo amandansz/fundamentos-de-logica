@@ -1,9 +1,20 @@
-let nomesPokemon = ["Pikachu" , "Chamander", "Bulbassaur"]
+
 let timePokemon = [
-  ["pikachu", "M", 1],
-  ["Chamander", "F", 3]
+  ["Pikachu", "M", 45],
+  ["Chamander", "F", 29],
+  ["Bulbassaur", "M", 14],
+  ["Chansey", "F", 20],
+  ["Diglett", "M", 33],
+  ["Kadabra", "M", 46],
+  ["Gyarados","M", 71]
 ]
 
+for(let i = 0; i < timePokemon.length; i++){
+  console.log(
+    " O pokémon " + timePokemon[i][0] + 
+    " é do sexo " + timePokemon[i][1] +
+    " tem o lével " + timePokemon[i][2] + "."
+  );
+}
 
-console.log(" O pokemon " + timePokemon[1][0] + " é do sexo " +  timePokemon[1][1] + 
-" e está no nível " + timePokemon[1][2] )
+console.log("\nObrigado(a) por jogar Pokemon!")
