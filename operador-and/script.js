@@ -1,6 +1,7 @@
 // Operadores lógicos: AND (&&) OR (||) NOT (!)  
 let frequencia = 75;
 let media = 6;
+let = chocolate
 
 if (frequencia >= 90 && media >= 8) {
     console.log("O aluno foi aprovado direto!");
