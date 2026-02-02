@@ -1,9 +1,9 @@
 // Operadores lógicos: AND (&&) OR (||) NOT (!)  
 let frequencia = 75;
 let media = 6;
-let prova = 10;
+
 if (frequencia >= 90 && media >= 8) {
-    console.log("O aluno foi aprovado direto!")
+    console.log("O aluno foi aprovado direto!");
 }    
 
 else if (frequencia >= 75 && media >= 6) {
