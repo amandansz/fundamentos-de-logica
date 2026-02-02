@@ -1,8 +1,8 @@
 # 🖥️ Exercícios de Lógica de Programação
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![License](https://img.shields.io/badge/license-MIT-blue)
+
+
 
 Repositório com **exercícios de lógica de programação em JavaScript**, criado para estudo, prática e consolidação de conceitos fundamentais de desenvolvimento.  
 
