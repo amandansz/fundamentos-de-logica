@@ -13,7 +13,7 @@ for(let i = 0; i < timePokemon.length; i++){
   console.log(
     " O pokémon " + timePokemon[i][0] + 
     " é do sexo " + timePokemon[i][1] +
-    " tem o lével " + timePokemon[i][2] + "."
+    " tem o level " + timePokemon[i][2] + "."
   );
 }
 
